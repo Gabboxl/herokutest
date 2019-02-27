@@ -1,3 +1,3 @@
 <?php
 
-echo("sucsa")
+echo("sucsa");
